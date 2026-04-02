@@ -25,7 +25,7 @@ This project analyzes a music store dataset using SQL to uncover insights relate
 This project strengthened SQL skills through practical data analysis, including joins, CTEs, subqueries, and window functions. It demonstrates the ability to analyze relational data and extract meaningful business insights.
 
 **SQL Implementation:**  
-All Queries available here → [Music Store Analysis Queries](/Projects/music-store-analysis/queries.sql)
+All Queries available here → [Music Store Analysis Queries](/Projects/music-store-analysis.sql)
 
 ---
 
